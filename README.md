@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all things cloud/devops
 - 💞️ I’m looking to collaborate on exciting projects 
 - 📫 How to reach me ...
--  Linkedin - www.linkedin.com/in/sy-hassan-87027b282
+-  Linkedin - www.linkedin.com/in/saeedhersi
 -  My blog  - https://dev.to/sy_tech 
 
 <!---
